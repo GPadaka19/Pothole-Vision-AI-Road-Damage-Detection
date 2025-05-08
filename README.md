@@ -11,17 +11,17 @@ Menggunakan `venv` sangat disarankan dalam proyek machine learning dan computer 
 
 Buka **Command Prompt** atau **Terminal** di folder root proyekmu, lalu jalankan:
 
-python -m venv venv
+`python -m venv venv`
 
 ## 🔄 Aktifkan Environment-nya
 
 ### Untuk **Windows**:
 
-venv\Scripts\activate
+`venv\Scripts\activate`
 
 ### Untuk **Linux / Mac**:
 
-source venv/bin/activate
+`source venv/bin/activate`
 
 ---
 
