@@ -17,11 +17,11 @@ Buka **Command Prompt** atau **Terminal** di folder root proyekmu, lalu jalankan
 
 ### Untuk **Windows**:
 
-`venv\Scripts\activate`
+`.venv\Scripts\activate`
 
 ### Untuk **Linux / Mac**:
 
-`source venv/bin/activate`
+`source .venv/bin/activate`
 
 ---
 
