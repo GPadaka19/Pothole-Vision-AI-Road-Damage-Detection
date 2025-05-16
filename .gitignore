@@ -2,5 +2,5 @@ dataset
 dataset-mix
 prepared-datasets
 dataset-ssd
-venv
+.venv
 kaggle.json
