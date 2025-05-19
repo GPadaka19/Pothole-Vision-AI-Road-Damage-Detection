@@ -1,4 +1,6 @@
 8-dataset
+8-dataset-kaggle
+8-dataset-yolo
 prepared-datasets
 .venv
 kaggle.json
